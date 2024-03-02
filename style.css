@@ -1,0 +1,146 @@
+*{margin: 0 0 0 0;
+
+*padding: 0 0 0 0;
+  
+}
+.row1{
+  text-align: center;
+  background-color: black;
+  
+}
+.nav1{
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+  overflow: auto;
+  color: white;
+}
+
+.row2{ 
+  text-align: center;
+  font-size: 100px
+}
+.row3{
+  text-align: center;
+}
+.row4{
+  text-align: center;
+  background-color: black;
+}
+
+.nav2{
+  display:flex;
+  list-style-type: none;
+  text-decoration: none
+  font-size:15px
+  width:100%;
+  margin-right:00;
+}
+.row5{
+  text-align: center;
+}
+.row6{
+  align-items: center;
+}
+.row7{
+  text-align: center;
+}
+.row8{
+  text-align: center;
+}
+
+.body1{
+  margin-left: 175px
+  
+}
+#email{
+  border-right-style: 20px;
+}
+.box{
+  color: red;
+}
+.a1{
+text-decoration: none
+}
+.input1{
+  float: right;
+  margin-right: 400px;
+  text-size:20px;
+  width: 150px;
+}
+.name{
+  text-size:20px;
+  width:150px;
+}
+
+.box1{
+  margin-right: 00px;
+}
+
+.row8{
+  display: flex;
+  float: right;
+ list-style-type: none;
+
+}
+nav div ul li a{
+  color:white;
+  text-decoration: none;
+  margin-right: 8px;
+  boarder-height:20px
+}
+
+@media only screen and (max-width: 768px) {
+  
+  .row1{
+    background-color: black;
+  }
+  
+  
+  .nav1 li{
+    font-size: 8px;
+    padding: 2px;
+  }
+  
+  .row2{
+    font-size: 40px;
+  }
+  
+  .row3{
+    font-size: 10px;
+  }
+  
+  .nav2{
+    font-size: 10px;
+    padding: 5px;
+  }
+  
+  .row5{
+    font-size: 15px;
+  }
+  
+  .row7 {
+    font-size: 10px;
+  }
+  
+  .row6{
+    height: 200px;
+    width: 400px;
+  }
+  
+  .row11{
+    font-size: 20px;
+  }
+  
+  .name{
+    font-size: 15px;
+  }
+  
+  .input1{
+    float: right;
+  margin-right: 10px;
+  font-size:15px;
+  width: 150px;
+  }
+ 
+}
